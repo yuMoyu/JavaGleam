@@ -1,8 +1,8 @@
-package ½Ó¿ÚÊµÀı»¯;
+package æ¥å£å®ä¾‹åŒ–;
 /**
- * Ä¿µÄ£º 1 Ñ§Ï°½Ó¿ÚÊµÀı»¯--ÄäÃûÄÚ²¿Àà
- *       2 ·ÖÎö½Ó¿ÚÊµÀı»¯Ê±µÄ²ÎÊıÀ´×ÔÓÚÄÄÀï
- * @author Ä«Ç³
+ * ç›®çš„ï¼š 1 å­¦ä¹ æ¥å£å®ä¾‹åŒ–--åŒ¿åå†…éƒ¨ç±»
+ *       2 åˆ†ææ¥å£å®ä¾‹åŒ–æ—¶çš„å‚æ•°æ¥è‡ªäºå“ªé‡Œ
+ * @author å¢¨æµ…
  */
 public class Main {
 	public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class Main {
 				System.out.println("Animal eat " + food);
 
 			}
-		}.eat("fish");;
+		}.eat("fish");
 	}
 
 }
